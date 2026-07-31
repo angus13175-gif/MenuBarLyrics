@@ -1,0 +1,16 @@
+MenuBarLyrics uses the following third-party software:
+
+1. mediaremote-adapter
+   Copyright (c) 2025, Jonas van den Berg and contributors
+   Licensed under the BSD 3-Clause License
+   Source: https://github.com/ungive/mediaremote-adapter
+   Pinned commit: 3ac3d4bdf862c7b5399b4fba4df5689f5c38609a
+
+2. LRCLIB API (https://lrclib.net)
+   Used for synced lyrics retrieval.
+
+3. QQ Music (https://y.qq.com)
+   Unofficial API used as experimental lyrics source.
+
+4. NetEase Cloud Music (https://music.163.com)
+   Unofficial API used as experimental lyrics source.
