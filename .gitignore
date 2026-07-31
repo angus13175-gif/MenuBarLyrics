@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+DerivedData/
+build-adapter/
+dist/
+MenuBarLyrics/Resources/MediaRemoteAdapter.framework
+._*
