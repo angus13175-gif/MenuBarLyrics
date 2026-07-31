@@ -73,13 +73,26 @@ cd ../..
 ## Screenshot / 截图
 
 <p align="center">
-  <em>菜单栏歌词 + 猫咪打碟动画 / Menu bar lyrics + DJ cat</em><br>
+  <em>菜单栏歌词 + 猫咪打碟 / Menu bar lyrics + DJ cat</em><br>
   <img src="pics/menubar-demo.gif" alt="菜单栏演示" width="600">
 </p>
 
 <p align="center">
   <em>完整歌词面板 / Lyrics panel</em><br>
   <img src="pics/panel-demo.gif" alt="歌词面板演示" width="500">
+</p>
+
+<p align="center">
+  <em>🐱 猫咪待机 / Cat idle</em><br>
+  <img src="pics/cat-idle.gif" alt="猫咪待机" width="200">
+</p>
+
+<p align="center">
+  <em>🐱 四种猫咪皮肤 / Four cat skins</em><br>
+  <img src="pics/cat-maomao.gif" alt="猫猫" width="80">
+  <img src="pics/cat-pangmaomao.gif" alt="胖猫猫" width="80">
+  <img src="pics/cat-miaomiao.gif" alt="喵喵" width="80">
+  <img src="pics/cat-mimi.gif" alt="咪咪" width="80">
 </p>
 
 ---
