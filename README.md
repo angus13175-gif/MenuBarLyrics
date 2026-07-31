@@ -49,7 +49,7 @@ cd ../..
 ## Requirements / 系统要求
 
 - macOS 15.4 (Sequoia) 或更高版本 / or later
-- Apple Silicon / Intel
+- Apple Silicon (M1/M2/M3/M4)
 
 ---
 
